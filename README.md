@@ -1,2 +1,2 @@
 # pre-project-setup
-pre-project를 위한 setup 실습
+main 브랜치로 PR 실습을 위한 readme 수정
